@@ -1,0 +1,1 @@
+select title from books,publisher where publisher.country="UK" and publisher=publisher.id; 
